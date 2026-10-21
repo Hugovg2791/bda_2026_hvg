@@ -1,6 +1,9 @@
-# PRACTICAS BIG DATA APLICADO
+# Prácticas de Big Data Aplicado
 
-## Este repositorio contiene todas las practicas realizadas a lo largo del curso de Big Data aplicado
-## Link: [GITHUB PERSONAL](https://github.com/Hugovg2791/)
+Repositorio para organizar las prácticas y los materiales del módulo de Big Data Aplicado durante el curso 2026-2027.
 
-Las practicas desarrolladas se iran subiendo en este repositorio durante el desarrollo del curso
+El contenido se organiza en siete unidades de trabajo: paradigmas distribuidos; almacenamiento distribuido e integridad con HDFS; data lakes y Amazon S3; ingesta de datos; procesamiento con Spark; monitorización, fiabilidad y rendimiento; y analítica de datos y simulación de modelos BI.
+
+Consulta el [índice general](index.md) para acceder a las unidades y a las prácticas disponibles.
+
+[Ir al índice general](index.md)
